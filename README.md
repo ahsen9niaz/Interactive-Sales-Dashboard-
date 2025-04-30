@@ -20,7 +20,6 @@ This model simulates optimizing pizza categories based on ingredient limits and 
 
 ## Files
 - `Pizza_Optimization_Dashboard.xlsm` — Main file with full model and macro
-- Screenshots included in `/images`
 
 
 
