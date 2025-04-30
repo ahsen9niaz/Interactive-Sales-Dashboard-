@@ -1,4 +1,4 @@
-# Interactive Sales Optimization Dashboard 🧠📊🍕
+# Interactive Sales Optimization Dashboard
 
 This project is an Excel-based dashboard built for optimizing product output using constraints like ingredient availability, cost, and profit.
 
