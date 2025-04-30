@@ -2,7 +2,7 @@
 
 This project is an Excel-based dashboard built for optimizing product output using constraints like ingredient availability, cost, and profit.
 
-## 🔧 Features
+## Features
 -  Excel Solver optimization
 - Dynamic charts and tables
 - Automated macro with button click
